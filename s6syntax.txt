@@ -66,7 +66,7 @@ highlighter/shThemeFadeToGrey.css
 highlighter/shThemeMDUltra.css
 highlighter/shThemeMidnight.css
 highlighter/shThemeRDark.css
-highlighter/shClojureExtra.ssh
+highlighter/shClojureExtra.css
 
 # template for pdf generation
 # -- use html-to-pdf tool (such as wkhtmltopdf, prince, etc) to generate pdf
