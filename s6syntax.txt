@@ -45,7 +45,7 @@ highlighter/shBrushScala.js
 highlighter/shBrushSql.js
 highlighter/shBrushVb.js
 highlighter/shBrushXml.js
-highlighter/shClojureBrush.js
+highlighter/shBrushClojure.js
 
 # SintaxHighlighter themes
 
